@@ -62,3 +62,7 @@ vimm.net
 download3.vimm.net
 www.wikipedia.org
 www.minecraft.net
+video.rainberrytv.com
+ced.sascdn.com
+cdn.polyfill.io
+cdn.jsdelivr.net

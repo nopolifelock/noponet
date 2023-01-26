@@ -33,3 +33,4 @@ azure.com
 azureedge.net
 cloudfront.net
 .wikimedia.org
+ytimg.com

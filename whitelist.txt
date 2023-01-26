@@ -74,3 +74,4 @@ mtalk.google.com
 sbux-portal.globalreachtech.com
 millmedia.com
 grid.bidswitch.net
+i.ytimg.com

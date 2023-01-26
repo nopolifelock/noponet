@@ -79,3 +79,8 @@ ajax.googleapis.com
 duckduckgo.com
 improving.duckduckgo.com
 chrome.google.com
+www.googleapis.com
+clients2.google.com
+content-autofill.googleapis.com
+c.go-mpulse.net
+content-autofill.googleapis.com

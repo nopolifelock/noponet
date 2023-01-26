@@ -87,3 +87,4 @@ content-autofill.googleapis.com
 ssl.gstatic.com
 staticcdn.duckduckgo.com
 sb-ssl.google.com
+www.speedtest.net

@@ -32,3 +32,4 @@ googleapis.com
 azure.com
 azureedge.net
 cloudfront.net
+.wikimedia.org

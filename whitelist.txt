@@ -78,3 +78,5 @@ i.ytimg.com
 img.yts.mx
 stackoverflow.co
 cdn.sstatic.net
+www.googletagmanager.com
+www.google-analytics.com

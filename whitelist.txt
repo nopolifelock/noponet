@@ -75,3 +75,4 @@ sbux-portal.globalreachtech.com
 millmedia.com
 grid.bidswitch.net
 i.ytimg.com
+img.yts.mx

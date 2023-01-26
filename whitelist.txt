@@ -93,3 +93,4 @@ b.cdnst.net
 ads.pubmatic.com
 btloader.com
 cdn.static.zdbb.net
+activity.windows.com

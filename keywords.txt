@@ -26,3 +26,4 @@ ngfiles.com
 microsoft.com
 stackoverflow
 googleusercontent.com
+hosts.ooklaserver.net

@@ -30,3 +30,4 @@ hosts.ooklaserver.net
 speedtest.frontier.com
 googleapis.com
 azure.com
+azureedge.net

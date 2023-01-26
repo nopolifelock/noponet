@@ -78,4 +78,4 @@ www.google-analytics.com
 ajax.googleapis.com
 duckduckgo.com
 improving.duckduckgo.com
-improving.duckduckgo.com
+chrome.google.com

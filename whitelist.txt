@@ -88,3 +88,8 @@ ssl.gstatic.com
 staticcdn.duckduckgo.com
 sb-ssl.google.com
 www.speedtest.net
+zdstatic.speedtest.net
+b.cdnst.net
+ads.pubmatic.com
+btloader.com
+cdn.static.zdbb.net

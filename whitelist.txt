@@ -100,3 +100,4 @@ mem.gfx.ms
 img-prod-cms-rt-microsoft-com.akamaized.net
 links.duckduckgo.com
 opentrackers.org
+googleads.g.doubleclick.net

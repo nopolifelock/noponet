@@ -27,3 +27,5 @@ microsoft.com
 stackoverflow
 googleusercontent.com
 hosts.ooklaserver.net
+speedtest.frontier.com
+googleapis.com

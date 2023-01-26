@@ -66,3 +66,8 @@ video.rainberrytv.com
 ced.sascdn.com
 cdn.polyfill.io
 cdn.jsdelivr.net
+tpc.googlesyndication.com
+x.bidswitch.net
+sync.adkernel.com
+pagead2.googlesyndication.com
+mtalk.google.com

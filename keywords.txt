@@ -34,3 +34,4 @@ azureedge.net
 cloudfront.net
 .wikimedia.org
 ytimg.com
+mirror.

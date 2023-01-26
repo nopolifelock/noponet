@@ -80,3 +80,4 @@ stackoverflow.co
 cdn.sstatic.net
 www.googletagmanager.com
 www.google-analytics.com
+ajax.googleapis.com

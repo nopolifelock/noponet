@@ -126,10 +126,3 @@ get.geojs.io
 thepiratebay.party
 www.wikihow.com
 login.microsoftonline.com
-
-www.gravatar.com
-i.liadm.com
-www.google.com
-clubpenguin.com
-clubpenguin.com
-clubpenguin.com

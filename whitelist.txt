@@ -164,3 +164,4 @@ www.dolphinemulator.org
 www.pj64-emu.com
 xemu.app
 data.unistream.io
+visualboyadvance.org

@@ -138,3 +138,4 @@ api.github.com
 alive.github.com
 collector.github.com
 github.githubassets.com
+avatars.githubusercontent.com

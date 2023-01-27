@@ -114,3 +114,5 @@ www.eclipse.org
 eclipseide.org
 eclipse.org
 fonts.gstatic.com
+ade.googlesyndication.com
+ftp.osuosl.org

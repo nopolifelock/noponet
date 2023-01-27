@@ -136,3 +136,4 @@ www.geeksforgeeks.org
 securepubads.g.doubleclick.net
 api.github.com
 alive.github.com
+collector.github.com

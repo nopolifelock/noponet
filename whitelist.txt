@@ -140,3 +140,4 @@ collector.github.com
 github.githubassets.com
 avatars.githubusercontent.com
 stackexchange.com
+lh3.googleusercontent.com

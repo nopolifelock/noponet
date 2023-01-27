@@ -36,3 +36,4 @@ cloudfront.net
 wiki.
 ytimg.com
 mirror.
+sourceforge.net

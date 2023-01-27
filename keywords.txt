@@ -39,3 +39,5 @@ mirror.
 sourceforge.net
 .eclipse.org
 ftp.
+
+test

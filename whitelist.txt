@@ -126,4 +126,5 @@ get.geojs.io
 thepiratebay.party
 www.wikihow.com
 login.microsoftonline.com
-superuser.comclubpenguin.com
+superuser.com
+clubpenguin.com

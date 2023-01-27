@@ -152,3 +152,4 @@ amcdn.msftauth.net
 www.codeproject.com
 www.digitalocean.com
 www.w3schools.com
+www.java.com

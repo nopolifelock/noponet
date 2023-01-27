@@ -162,3 +162,4 @@ bg-content-origin.s3.amazonaws.com
 dolphin-emu.org
 www.dolphinemulator.org
 www.pj64-emu.com
+xemu.app

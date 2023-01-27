@@ -157,3 +157,4 @@ static.ocecdn.oraclecloud.com
 c.oracleinfinity.io
 s.go-mpulse.net
 www.oracle.com
+www.biblegateway.com

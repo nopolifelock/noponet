@@ -40,6 +40,5 @@ sourceforge.net
 .eclipse.org
 ftp.
 test
-
 testing123
 okay

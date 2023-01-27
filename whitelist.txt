@@ -165,3 +165,4 @@ www.pj64-emu.com
 xemu.app
 data.unistream.io
 visualboyadvance.org
+visualboyadvance.en.softonic.com

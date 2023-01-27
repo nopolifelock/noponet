@@ -33,5 +33,6 @@ azure.com
 azureedge.net
 cloudfront.net
 .wikimedia.org
+wiki.
 ytimg.com
 mirror.

@@ -159,3 +159,4 @@ s.go-mpulse.net
 www.oracle.com
 www.biblegateway.com
 bg-content-origin.s3.amazonaws.com
+dolphin-emu.org

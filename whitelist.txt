@@ -126,9 +126,7 @@ get.geojs.io
 thepiratebay.party
 www.wikihow.com
 login.microsoftonline.com
-
 roms-download.com
-
 www.python.org
 play.google.com
 www.gravatar.com

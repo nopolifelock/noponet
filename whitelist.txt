@@ -137,3 +137,4 @@ securepubads.g.doubleclick.net
 api.github.com
 alive.github.com
 collector.github.com
+github.githubassets.com

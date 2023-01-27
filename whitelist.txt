@@ -129,3 +129,4 @@ login.microsoftonline.com
 
 www.gravatar.com
 i.liadm.com
+www.google.com

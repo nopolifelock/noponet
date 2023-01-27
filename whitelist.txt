@@ -108,3 +108,4 @@ download.sublimetext.com
 www.sublimetext.com
 adblockplus.org
 eyeo.to
+www.vogella.com

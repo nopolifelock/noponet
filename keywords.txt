@@ -38,3 +38,4 @@ ytimg.com
 mirror.
 sourceforge.net
 .eclipse.org
+ftp.

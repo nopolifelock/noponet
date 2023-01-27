@@ -42,3 +42,4 @@ ftp.
 couldflare.com
 stackexchange.com
 office365.com
+live.com

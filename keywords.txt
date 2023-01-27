@@ -37,3 +37,4 @@ wiki.
 ytimg.com
 mirror.
 sourceforge.net
+.eclipse.org

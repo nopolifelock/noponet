@@ -130,3 +130,4 @@ login.microsoftonline.com
 roms-download.com
 
 www.python.org
+play.google.com

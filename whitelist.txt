@@ -128,3 +128,5 @@ www.wikihow.com
 login.microsoftonline.com
 
 roms-download.com
+
+www.python.org

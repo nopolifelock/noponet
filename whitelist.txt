@@ -142,3 +142,4 @@ avatars.githubusercontent.com
 stackexchange.com
 lh3.googleusercontent.com
 graph.facebook.com
+meta.stackexchange.com

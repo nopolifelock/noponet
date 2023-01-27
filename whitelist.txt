@@ -144,3 +144,4 @@ lh3.googleusercontent.com
 graph.facebook.com
 meta.stackexchange.com
 meta.stackexchange.com
+platform-lookaside.fbsbx.com

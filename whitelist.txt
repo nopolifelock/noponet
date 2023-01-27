@@ -121,3 +121,6 @@ limetorrents.so
 www.limetorrents.to
 thepirates-bay.org
 pirate-bays.net
+thepirate-bay3.org
+get.geojs.io
+thepiratebay.party

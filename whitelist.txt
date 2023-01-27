@@ -166,3 +166,4 @@ xemu.app
 data.unistream.io
 visualboyadvance.org
 visualboyadvance.en.softonic.com
+sc.sftcdn.net

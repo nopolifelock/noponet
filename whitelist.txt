@@ -155,3 +155,4 @@ www.w3schools.com
 www.java.com
 static.ocecdn.oraclecloud.com
 c.oracleinfinity.io
+s.go-mpulse.net

@@ -132,3 +132,4 @@ play.google.com
 www.gravatar.com
 i.stack.imgur.com
 www.geeksforgeeks.org
+securepubads.g.doubleclick.net

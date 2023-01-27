@@ -148,3 +148,4 @@ platform-lookaside.fbsbx.com
 matheducators.stackexchange.com
 cdnjs.cloudflare.com
 amcdn.msftauth.net
+amcdn.msftauth.net

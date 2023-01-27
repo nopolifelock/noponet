@@ -129,3 +129,4 @@ login.microsoftonline.com
 superuser.com
 clubpenguin.com
 www.gravatar.com
+live.primis.tech

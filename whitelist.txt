@@ -199,3 +199,4 @@ secure.runescape.com
 api.runelite.net
 static.runelite.net
 tomcat.apache.org
+dlcdn.apache.org

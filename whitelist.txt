@@ -197,3 +197,4 @@ api.mixpanel.com
 api.mixpanel.com
 api.my.avira.com
 api.my.avira.com
+spotlight.my.avira.com

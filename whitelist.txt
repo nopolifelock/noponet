@@ -228,3 +228,4 @@ api.facepunch.com
 cdp.cloud.unity3d.com
 www.liveabout.com
 www.rappad.co
+w.soundcloud.com

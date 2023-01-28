@@ -55,3 +55,4 @@ celsys.co
 .office.com
 .office.net
 cloudflare
+soundcloud.com

@@ -49,3 +49,4 @@ nord
 .mediafire.com
 .apache.org
 amazonaws.com
+clip-studio.com

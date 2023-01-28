@@ -57,3 +57,4 @@ celsys.co
 cloudflare
 soundcloud.com
 contentsquare.net
+assets.

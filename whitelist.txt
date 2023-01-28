@@ -253,3 +253,4 @@ tagan.adlightning.com
 p.ebaystatic.com
 vi.vipr.ebaydesc.com
 srv.main.ebayrtm.com
+www.googletagservices.com

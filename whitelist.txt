@@ -185,3 +185,4 @@ auth.nordaccount.com
 nordaccount.com
 static.cloudflareinsights.com
 s1.nordaccount.com
+logincdn.msftauth.net

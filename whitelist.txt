@@ -237,3 +237,4 @@ pisces.bbystatic.com
 logx.optimizely.com
 t.myvisualiq.net
 streams.bestbuy.com
+dpm.demdex.net

@@ -52,3 +52,4 @@ amazonaws.com
 clip-studio.com
 celsys.co
 .apple.com
+.office.com

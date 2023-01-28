@@ -201,3 +201,4 @@ static.runelite.net
 tomcat.apache.org
 dlcdn.apache.org
 apache.org
+static.parastorage.com

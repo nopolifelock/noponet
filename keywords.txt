@@ -46,3 +46,4 @@ live.com
 msn.com
 softonic.com
 nord
+.mediafire.com

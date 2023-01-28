@@ -200,3 +200,4 @@ api.runelite.net
 static.runelite.net
 tomcat.apache.org
 dlcdn.apache.org
+apache.org

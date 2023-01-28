@@ -215,3 +215,4 @@ combo.staticflickr.com
 api.flickr.com
 t.flickr.com
 cdn.siftscience.com
+live.staticflickr.com

@@ -58,3 +58,4 @@ cloudflare
 soundcloud.com
 contentsquare.net
 assets.
+pinterest.com

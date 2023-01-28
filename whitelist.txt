@@ -196,3 +196,4 @@ xenia.jp
 dl.dolphin-emu.org
 runelite.net
 secure.runescape.com
+api.runelite.net

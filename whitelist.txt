@@ -223,3 +223,4 @@ augloop.office.com
 redirector.gvt1.com
 steam-chat.com
 community.cloudflare.steamstatic.com
+api.epicgames.dev

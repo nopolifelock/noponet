@@ -50,3 +50,4 @@ nord
 .apache.org
 amazonaws.com
 clip-studio.com
+celsys.co

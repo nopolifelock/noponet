@@ -218,3 +218,4 @@ cdn.siftscience.com
 live.staticflickr.com
 wikileaks.org
 search.wikileaks.org
+discussions.apple.com

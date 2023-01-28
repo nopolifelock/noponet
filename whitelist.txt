@@ -198,3 +198,4 @@ api.mixpanel.com
 api.my.avira.com
 api.my.avira.com
 spotlight.my.avira.com
+store.steampowered.com

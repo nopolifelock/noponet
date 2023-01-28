@@ -187,3 +187,4 @@ static.cloudflareinsights.com
 s1.nordaccount.com
 logincdn.msftauth.net
 os4work.com
+172.67.139.192

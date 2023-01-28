@@ -234,3 +234,4 @@ srv.clickfuse.com
 i1.sndcdn.com
 www.bestbuy.com
 pisces.bbystatic.com
+logx.optimizely.com

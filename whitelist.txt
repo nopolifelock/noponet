@@ -178,3 +178,4 @@ downloads.nordcdn.com
 zwyr157wwiu6eior.com
 104.17.168.30
 applytics.nordvpn.com
+account.nordvpn.com

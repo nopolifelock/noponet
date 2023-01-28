@@ -200,3 +200,4 @@ api.my.avira.com
 spotlight.my.avira.com
 store.steampowered.com
 cdn.akamai.steamstatic.com
+store.akamai.steamstatic.com

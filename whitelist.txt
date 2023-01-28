@@ -194,3 +194,4 @@ www.digitaltrends.com
 www.avira.com
 package.avira.com
 api.mixpanel.com
+api.mixpanel.com

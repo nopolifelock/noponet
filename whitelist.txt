@@ -261,3 +261,4 @@ style.sndcdn.com
 client.px-cloud.net
 secure.sndcdn.com
 sb.scorecardresearch.com
+cf-hls-media.sndcdn.com

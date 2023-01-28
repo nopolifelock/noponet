@@ -249,3 +249,4 @@ i.ebayimg.com
 ir.ebaystatic.com
 cas.avalon.perfdrive.com
 secureir.ebaystatic.com
+tagan.adlightning.com

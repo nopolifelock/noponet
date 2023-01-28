@@ -183,3 +183,4 @@ portal.nordaccount.com
 my.nordaccount.com
 auth.nordaccount.com
 nordaccount.com
+static.cloudflareinsights.com

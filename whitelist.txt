@@ -170,3 +170,4 @@ sc.sftcdn.net
 images.sftcdn.net
 notix.io
 nordvpn.com
+downloads.nordcdn.com

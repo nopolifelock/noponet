@@ -202,3 +202,4 @@ tomcat.apache.org
 dlcdn.apache.org
 apache.org
 static.parastorage.com
+frog.wix.com

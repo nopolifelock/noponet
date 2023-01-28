@@ -195,3 +195,4 @@ www.avira.com
 package.avira.com
 api.mixpanel.com
 api.mixpanel.com
+api.my.avira.com

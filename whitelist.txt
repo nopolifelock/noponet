@@ -251,3 +251,4 @@ cas.avalon.perfdrive.com
 secureir.ebaystatic.com
 tagan.adlightning.com
 p.ebaystatic.com
+vi.vipr.ebaydesc.com

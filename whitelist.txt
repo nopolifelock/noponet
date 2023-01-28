@@ -257,3 +257,4 @@ www.googletagservices.com
 www.visualcapitalist.com
 s.w.org
 a-v2.sndcdn.com
+style.sndcdn.com

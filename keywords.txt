@@ -51,3 +51,4 @@ nord
 amazonaws.com
 clip-studio.com
 celsys.co
+.apple.com

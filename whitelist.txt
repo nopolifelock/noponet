@@ -239,3 +239,4 @@ t.myvisualiq.net
 streams.bestbuy.com
 dpm.demdex.net
 assets.bbystatic.com
+d.us.criteo.com

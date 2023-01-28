@@ -254,3 +254,4 @@ p.ebaystatic.com
 vi.vipr.ebaydesc.com
 srv.main.ebayrtm.com
 www.googletagservices.com
+www.visualcapitalist.com

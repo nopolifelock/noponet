@@ -207,3 +207,4 @@ eus.rubiconproject.com
 image6.pubmatic.com
 steamcdn-a.akamaihd.net
 steamcdn-a.akamaihd.net
+api.steampowered.com

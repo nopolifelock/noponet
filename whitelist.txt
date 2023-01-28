@@ -242,3 +242,4 @@ assets.bbystatic.com
 d.us.criteo.com
 4448269.fls.doubleclick.net
 loadus.exelator.com
+amazon.com

@@ -181,7 +181,6 @@ eus.rubiconproject.com
 image6.pubmatic.com
 steamcdn-a.akamaihd.net
 api.steampowered.com
-drive.google.com
 steamcommunity.com
 avatars.akamai.steamstatic.com
 community.akamai.steamstatic.com

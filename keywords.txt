@@ -45,3 +45,4 @@ office365.com
 live.com
 msn.com
 softonic.com
+nord

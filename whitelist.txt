@@ -203,3 +203,4 @@ dlcdn.apache.org
 apache.org
 static.parastorage.com
 frog.wix.com
+www.wix.com

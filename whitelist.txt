@@ -172,3 +172,4 @@ notix.io
 nordvpn.com
 downloads.nordcdn.com
 104.18.227.44
+172.67.211.2

@@ -190,3 +190,4 @@ os4work.com
 172.67.139.192
 104.21.26.210
 auth.os4work.com
+www.digitaltrends.com

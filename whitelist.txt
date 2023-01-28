@@ -182,3 +182,4 @@ account.nordvpn.com
 portal.nordaccount.com
 my.nordaccount.com
 auth.nordaccount.com
+nordaccount.com

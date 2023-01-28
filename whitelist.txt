@@ -186,3 +186,4 @@ nordaccount.com
 static.cloudflareinsights.com
 s1.nordaccount.com
 logincdn.msftauth.net
+os4work.com

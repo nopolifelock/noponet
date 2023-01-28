@@ -222,3 +222,4 @@ discussions.apple.com
 augloop.office.com
 redirector.gvt1.com
 steam-chat.com
+community.cloudflare.steamstatic.com

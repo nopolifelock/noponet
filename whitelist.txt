@@ -211,3 +211,4 @@ celicestrgprod.s3.amazonaws.com
 brushwarriors.com
 wildlifereferencephotos.com
 flickr.com
+combo.staticflickr.com

@@ -263,3 +263,4 @@ secure.sndcdn.com
 sb.scorecardresearch.com
 cf-hls-media.sndcdn.com
 incels.is
+cdn.purpleads.io

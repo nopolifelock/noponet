@@ -185,3 +185,4 @@ drive.google.com
 steamcommunity.com
 avatars.akamai.steamstatic.com
 community.akamai.steamstatic.com
+cdn.auth0.com

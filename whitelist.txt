@@ -212,3 +212,4 @@ drive.google.com
 drive.google.com
 steamcommunity.com
 avatars.akamai.steamstatic.com
+community.akamai.steamstatic.com

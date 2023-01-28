@@ -216,3 +216,4 @@ api.flickr.com
 t.flickr.com
 cdn.siftscience.com
 live.staticflickr.com
+wikileaks.org

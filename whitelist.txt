@@ -217,3 +217,4 @@ t.flickr.com
 cdn.siftscience.com
 live.staticflickr.com
 wikileaks.org
+search.wikileaks.org

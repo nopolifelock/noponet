@@ -212,3 +212,4 @@ brushwarriors.com
 wildlifereferencephotos.com
 flickr.com
 combo.staticflickr.com
+api.flickr.com

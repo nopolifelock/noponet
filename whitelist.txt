@@ -192,3 +192,4 @@ os4work.com
 auth.os4work.com
 www.digitaltrends.com
 www.avira.com
+package.avira.com

@@ -204,3 +204,4 @@ apache.org
 static.parastorage.com
 frog.wix.com
 www.wix.com
+ice.clip-studio.com

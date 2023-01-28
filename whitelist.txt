@@ -206,3 +206,4 @@ frog.wix.com
 www.wix.com
 ice.clip-studio.com
 celiceappprod.s3-ap-northeast-1.amazonaws.com
+celicestrgprod.s3.amazonaws.com

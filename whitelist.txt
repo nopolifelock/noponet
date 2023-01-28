@@ -205,3 +205,4 @@ static.parastorage.com
 frog.wix.com
 www.wix.com
 ice.clip-studio.com
+celiceappprod.s3-ap-northeast-1.amazonaws.com

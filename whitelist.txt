@@ -209,3 +209,4 @@ steamcdn-a.akamaihd.net
 steamcdn-a.akamaihd.net
 api.steampowered.com
 drive.google.com
+drive.google.com

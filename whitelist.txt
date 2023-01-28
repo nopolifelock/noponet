@@ -187,3 +187,4 @@ avatars.akamai.steamstatic.com
 community.akamai.steamstatic.com
 cdn.auth0.com
 www.makeuseof.com
+www.emulator-zone.com

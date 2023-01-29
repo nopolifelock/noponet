@@ -317,3 +317,4 @@ platform.twitter.com
 c.aaxads.com
 trakt.tv
 imgur.com
+imgur.ccgateway.net

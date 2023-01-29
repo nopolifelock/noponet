@@ -74,4 +74,3 @@ download.
 runescape.com
 .edu
 .gov
-test

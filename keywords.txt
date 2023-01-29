@@ -108,3 +108,4 @@ pokemmo
 huion
 captcha
 static.
+pixel.

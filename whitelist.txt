@@ -270,3 +270,4 @@ pytorch.org
 www.lwjgl.org
 mvnrepository.com
 nofap.com
+maxcdn.bootstrapcdn.com

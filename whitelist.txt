@@ -118,13 +118,6 @@ fonts.gstatic.com
 ade.googlesyndication.com
 ftp.osuosl.org
 p
-limetorrents.so
-www.limetorrents.to
-thepirates-bay.org
-pirate-bays.net
-thepirate-bay3.org
-get.geojs.io
-thepiratebay.party
 www.wikihow.com
 login.microsoftonline.com
 roms-download.com
@@ -274,9 +267,6 @@ maxcdn.bootstrapcdn.com
 stats.g.doubleclick.net
 www.technadu.com
 cdn.technadu.com
-eztv.re
-eztv.re
-ezimg.ch
 video.your-notice.com
 ecorph.com
 www.erowid.org
@@ -296,7 +286,6 @@ rum.browser-intake-datadoghq.com
 session-replay.browser-intake-datadoghq.com
 css-tricks.com
 i0.wp.com
-anchor.digitalocean.com
 anchor.digitalocean.com
 instant.page
 cdn.segment.com

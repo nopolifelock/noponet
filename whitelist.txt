@@ -336,3 +336,4 @@ featuregates.org
 huion.com
 js.hcaptcha.com
 sync.outbrain.com
+sync.outbrain.com

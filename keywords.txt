@@ -110,3 +110,4 @@ captcha
 static.
 pixel.
 ssum.
+static1.

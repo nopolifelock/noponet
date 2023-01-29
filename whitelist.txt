@@ -268,3 +268,4 @@ iframe.arkoselabs.com
 api.purpleads.io
 pytorch.org
 www.lwjgl.org
+mvnrepository.com

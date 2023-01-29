@@ -84,3 +84,4 @@ docs.
 ftp-
 code.
 msecnd.net
+mysql.com

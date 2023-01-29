@@ -66,3 +66,4 @@ msauth.net
 msftauth.net
 pypi.org
 pythonhosted.org
+developer.

@@ -112,3 +112,4 @@ pixel.
 ssum.
 static1.
 makeuseof
+inputmapper

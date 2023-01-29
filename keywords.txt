@@ -96,3 +96,4 @@ api.
 downloads.
 trakt.tv
 stripe.com
+imgur.com

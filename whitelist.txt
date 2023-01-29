@@ -272,3 +272,4 @@ mvnrepository.com
 nofap.com
 maxcdn.bootstrapcdn.com
 stats.g.doubleclick.net
+www.technadu.com

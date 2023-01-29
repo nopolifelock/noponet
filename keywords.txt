@@ -88,3 +88,4 @@ mysql.com
 maven
 adobe.com
 cdn.
+youtu.be

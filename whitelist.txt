@@ -301,3 +301,4 @@ alb.reddit.com
 c.bing.com
 c.bing.com
 wsrv.nl
+external-content.duckduckgo.com

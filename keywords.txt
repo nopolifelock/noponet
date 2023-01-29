@@ -67,3 +67,4 @@ msftauth.net
 pypi.org
 pythonhosted.org
 developer.
+dl.

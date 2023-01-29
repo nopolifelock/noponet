@@ -293,3 +293,4 @@ s.yimg.com
 www.currentware.com
 www.codecademy.com
 rum.browser-intake-datadoghq.com
+session-replay.browser-intake-datadoghq.com

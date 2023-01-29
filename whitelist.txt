@@ -305,3 +305,4 @@ www.baeldung.com
 adobedc.demdex.net
 www.nuget.org
 nuget.org
+git-scm.com

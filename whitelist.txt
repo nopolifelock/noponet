@@ -319,3 +319,4 @@ trakt.tv
 imgur.com
 imgur.ccgateway.net
 ad.doubleclick.net
+js.media-lab.ai

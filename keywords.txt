@@ -107,3 +107,4 @@ liadm.com
 pokemmo
 huion
 captcha
+static.

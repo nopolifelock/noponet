@@ -338,3 +338,4 @@ js.hcaptcha.com
 sync.outbrain.com
 sync.outbrain.com
 aloofvest.com
+unpkg.com

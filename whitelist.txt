@@ -291,3 +291,4 @@ cdn.oribi.io
 data.adxcel-ec2.com
 s.yimg.com
 www.currentware.com
+www.codecademy.com

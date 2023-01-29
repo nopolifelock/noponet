@@ -296,3 +296,4 @@ rum.browser-intake-datadoghq.com
 session-replay.browser-intake-datadoghq.com
 css-tricks.com
 i0.wp.com
+anchor.digitalocean.com

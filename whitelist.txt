@@ -323,3 +323,4 @@ js.media-lab.ai
 quantcast.mgr.consensu.org
 certify-js.alexametrics.com
 i.clean.gg
+certify.alexametrics.com

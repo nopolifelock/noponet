@@ -339,3 +339,4 @@ sync.outbrain.com
 sync.outbrain.com
 aloofvest.com
 unpkg.com
+live.primis.tech

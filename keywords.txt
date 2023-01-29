@@ -75,3 +75,4 @@ runescape.com
 .edu
 .gov
 codeacademy.com
+codecademy.com

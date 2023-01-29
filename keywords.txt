@@ -64,3 +64,4 @@ amazon.com
 ebay.com
 msauth.net
 msftauth.net
+pypi.org

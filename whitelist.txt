@@ -321,3 +321,4 @@ imgur.ccgateway.net
 ad.doubleclick.net
 js.media-lab.ai
 quantcast.mgr.consensu.org
+certify-js.alexametrics.com

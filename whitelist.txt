@@ -318,3 +318,4 @@ c.aaxads.com
 trakt.tv
 imgur.com
 imgur.ccgateway.net
+ad.doubleclick.net

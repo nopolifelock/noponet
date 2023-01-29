@@ -285,3 +285,7 @@ www.runescape.com
 oldschool.runescape.com
 cdn.runescape.com
 cdn.psdn.xyz
+js.adsrvr.org
+cdn.oribi.io
+3ma79ae7cua.com
+data.adxcel-ec2.com

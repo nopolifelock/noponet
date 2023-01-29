@@ -302,3 +302,4 @@ instant.page
 cdn.segment.com
 static.codepen.io
 codedamn.com
+h.clarity.ms

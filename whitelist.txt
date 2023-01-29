@@ -299,3 +299,4 @@ i0.wp.com
 anchor.digitalocean.com
 anchor.digitalocean.com
 instant.page
+cdn.segment.com

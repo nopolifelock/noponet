@@ -77,3 +77,4 @@ runescape.com
 codeacademy.com
 codecademy.com
 gravatar.com
+wp.com

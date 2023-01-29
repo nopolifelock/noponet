@@ -335,3 +335,4 @@ rum.browser-intake-datadoghq.eu
 featuregates.org
 huion.com
 js.hcaptcha.com
+sync.outbrain.com

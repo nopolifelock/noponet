@@ -86,3 +86,4 @@ code.
 msecnd.net
 mysql.com
 maven
+adobe.com

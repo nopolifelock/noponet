@@ -89,3 +89,4 @@ maven
 adobe.com
 cdn.
 youtu.be
+sharepointonline.com

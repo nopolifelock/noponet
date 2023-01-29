@@ -94,3 +94,4 @@ visualstudio
 api.
 .ms
 downloads.
+trakt.tv

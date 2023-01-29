@@ -74,3 +74,4 @@ download.
 runescape.com
 .edu
 .gov
+codeacademy.com

@@ -327,3 +327,9 @@ certify.alexametrics.com
 www.indeed.com
 camel.headfarming.com
 offerup.com
+app.link
+featuregates.org
+featuregates.org
+app.link
+rum.browser-intake-datadoghq.eu
+featuregates.org

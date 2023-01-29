@@ -271,3 +271,4 @@ www.lwjgl.org
 mvnrepository.com
 nofap.com
 maxcdn.bootstrapcdn.com
+stats.g.doubleclick.net

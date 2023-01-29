@@ -274,3 +274,4 @@ maxcdn.bootstrapcdn.com
 stats.g.doubleclick.net
 www.technadu.com
 cdn.technadu.com
+eztv.re

@@ -95,3 +95,4 @@ api.
 .ms
 downloads.
 trakt.tv
+stripe.com

@@ -269,3 +269,4 @@ api.purpleads.io
 pytorch.org
 www.lwjgl.org
 mvnrepository.com
+nofap.com

@@ -65,3 +65,4 @@ ebay.com
 msauth.net
 msftauth.net
 pypi.org
+pythonhosted.org

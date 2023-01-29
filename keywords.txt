@@ -92,3 +92,4 @@ youtu.be
 sharepointonline.com
 visualstudio
 api.
+.ms

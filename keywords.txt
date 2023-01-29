@@ -68,3 +68,4 @@ pypi.org
 pythonhosted.org
 developer.
 dl.
+nvidia.com

@@ -90,3 +90,4 @@ adobe.com
 cdn.
 youtu.be
 sharepointonline.com
+visualstudio

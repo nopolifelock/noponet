@@ -275,3 +275,4 @@ stats.g.doubleclick.net
 www.technadu.com
 cdn.technadu.com
 eztv.re
+eztv.re

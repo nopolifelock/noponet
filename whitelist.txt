@@ -304,3 +304,4 @@ static.codepen.io
 codedamn.com
 h.clarity.ms
 www.redditstatic.com
+abs.twimg.com

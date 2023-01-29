@@ -307,3 +307,4 @@ www.redditstatic.com
 abs.twimg.com
 vitals.vercel-insights.com
 c.clarity.ms
+cdn.amplitude.com

@@ -346,3 +346,4 @@ daily.pokecommunity.com
 www.npttech.com
 www.techspot.com
 www.idownloadblog.com
+media.idownloadblog.com

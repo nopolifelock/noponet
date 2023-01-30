@@ -119,4 +119,4 @@ pangu
 .xyz
 udemy.com
 hackromtools.info
-discord
+discord.gg

@@ -10,7 +10,6 @@ mirrors.
 deviantart
 images-wixmp
 smartadserver
-utorrent.com
 brainlyads.com
 doubleverify.com
 flashtalking.com

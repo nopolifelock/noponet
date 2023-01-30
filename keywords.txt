@@ -116,4 +116,3 @@ inputmapper
 quora
 nerdschalk
 pokemon
-discord

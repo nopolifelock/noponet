@@ -118,3 +118,4 @@ nerdschalk
 pokemon
 pangu
 .xyz
+udemy.com

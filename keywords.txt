@@ -117,3 +117,4 @@ quora
 nerdschalk
 pokemon
 pangu
+.xyz

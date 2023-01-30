@@ -116,3 +116,4 @@ inputmapper
 quora
 nerdschalk
 pokemon
+pangu

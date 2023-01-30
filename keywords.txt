@@ -115,3 +115,4 @@ makeuseof
 inputmapper
 quora
 nerdschalk
+pokemon

@@ -13,139 +13,114 @@ import java.util.regex.Pattern;
 import feed.FeedServer;
 
 public class ProxyServer extends Thread {
-	private  String[] BLACKLISTED = {"porn, xxx, fuck, boobs, ass, tits, dick, cock, pussy, ludes, girls, milf, sex, booty"};
-	private  String[] WHITELIST = {"www.github.org"};
-	private  String[] KEYWORDS = {"github"};
+    private  String[] BLACKLISTED = {"porn, xxx, fuck, boobs, ass, tits, dick, cock, pussy, ludes, girls, milf, sex, booty"};
+    private  String[] WHITELIST = {"www.github.org"};
+    private  String[] KEYWORDS = {"github"};
     private static boolean CHECK = true;
     private FeedServer feedServer;
-	public static void main(String[] args) throws IOException {
-		
-    	ProxyServer server = new ProxyServer();
-	new Thread(server).start();
-    	boolean whiteListLoaded = false;
-    	boolean keyWordsLoaded = false;
-    	do {
+    public static void main(String[] args) throws IOException {
+        
+        ProxyServer server = new ProxyServer();
+    new Thread(server).start();
+        boolean whiteListLoaded = false;
+        boolean keyWordsLoaded = false;
+        do {
         whiteListLoaded = server.loadWhiteList();
-		keyWordsLoaded = server.loadKeyWords();
-    	}while(!whiteListLoaded || !keyWordsLoaded);
-    	
+        keyWordsLoaded = server.loadKeyWords();
+        }while(!whiteListLoaded || !keyWordsLoaded);
+        
 
     }
-	public static boolean isValidUser() {
-		File accountsFile = new File("C:\\PROGRA~2\\noponet\\accounts");
-		if(accountsFile.exists()) {
-		try {
-			BufferedReader reader = new BufferedReader(new FileReader(accountsFile));
-			String line;
-			while((line = reader.readLine())!=null) {
-				System.out.println(line + " : " + System.getProperty("user.name"));
-				if(System.getProperty("user.name").equals(line))
-					return true;
-			}
-			reader.close();
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		}
-		else {
-			return false;
-		}
-		return false;
-	}
-	
-	private void updateFeedServer(String url) {
-		feedServer.updateFeeds(url + "\n");
-	}
-	
+    
+    private void updateFeedServer(String url) {
+        feedServer.updateFeeds(url + "\n");
+    }
+    
     public boolean loadKeyWords() throws IOException {
-    	URL url = new URL("https://github.com/nopolifelock/lists/blob/main/keywords.txt");
-    	HttpURLConnection con = (HttpURLConnection) url.openConnection();
-    	BufferedReader reader = new BufferedReader(new InputStreamReader(con.getInputStream()));
-    	String line;
-    	ArrayList<String> list = new ArrayList<String>();
-    	while((line = reader.readLine()) != null) {
-    		if(line.contains("class=\"blob-code blob-code-inner js-file-line\">"))
-        		if(line.contains("class=\"blob-code blob-code-inner js-file-line\">")) {
-        			if(line.contains("</td>")){
-        				list.add(line.substring(line.indexOf("file-line\">") + 11, line.indexOf("</td>")));
-        			}else
-        				list.add(line.substring(line.indexOf("file-line\">") + 11));
-        		}
-    	}
-    	KEYWORDS = list.toArray(new String[list.size()]);
-    	if(list.size()>1) {
+        URL url = new URL("https://github.com/nopolifelock/lists/blob/main/keywords.txt");
+        HttpURLConnection con = (HttpURLConnection) url.openConnection();
+        BufferedReader reader = new BufferedReader(new InputStreamReader(con.getInputStream()));
+        String line;
+        ArrayList<String> list = new ArrayList<String>();
+        while((line = reader.readLine()) != null) {
+            if(line.contains("class=\"blob-code blob-code-inner js-file-line\">"))
+                if(line.contains("class=\"blob-code blob-code-inner js-file-line\">")) {
+                    if(line.contains("</td>")){
+                        list.add(line.substring(line.indexOf("file-line\">") + 11, line.indexOf("</td>")));
+                    }else
+                        list.add(line.substring(line.indexOf("file-line\">") + 11));
+                }
+        }
+        KEYWORDS = list.toArray(new String[list.size()]);
+        if(list.size()>1) {
 
-        	System.out.println("Whitelist refreshed");
-    	return true;
-    	}
-    	
-    	
-    	return false;
+            System.out.println("Whitelist refreshed");
+        return true;
+        }
+        
+        
+        return false;
     }
     
     public boolean  loadWhiteList() throws IOException {
-    	
-    	
-    	URL url = new URL("https://github.com/nopolifelock/lists/blob/main/whitelist.txt");
-    	
-    	HttpURLConnection con = (HttpURLConnection) url.openConnection();
-    	
-    	BufferedReader reader = new BufferedReader(new InputStreamReader(con.getInputStream()));
-    	String line;
-    	ArrayList<String> list = new ArrayList<String>();
-    	while((line = reader.readLine()) != null) {
-    		if(line.contains("class=\"blob-code blob-code-inner js-file-line\">"))
-        		if(line.contains("class=\"blob-code blob-code-inner js-file-line\">")) {
-        			if(line.contains("</td>")){
-        				list.add(line.substring(line.indexOf("file-line\">") + 11, line.indexOf("</td>")));
-        			}else
-        				list.add(line.substring(line.indexOf("file-line\">") + 11));
-        		}
-    	}
-    	WHITELIST = list.toArray(new String[list.size()]);
-    	if(list.size()>1) {
+        
+        
+        URL url = new URL("https://github.com/nopolifelock/lists/blob/main/whitelist.txt");
+        
+        HttpURLConnection con = (HttpURLConnection) url.openConnection();
+        
+        BufferedReader reader = new BufferedReader(new InputStreamReader(con.getInputStream()));
+        String line;
+        ArrayList<String> list = new ArrayList<String>();
+        while((line = reader.readLine()) != null) {
+            if(line.contains("class=\"blob-code blob-code-inner js-file-line\">"))
+                if(line.contains("class=\"blob-code blob-code-inner js-file-line\">")) {
+                    if(line.contains("</td>")){
+                        list.add(line.substring(line.indexOf("file-line\">") + 11, line.indexOf("</td>")));
+                    }else
+                        list.add(line.substring(line.indexOf("file-line\">") + 11));
+                }
+        }
+        WHITELIST = list.toArray(new String[list.size()]);
+        if(list.size()>1) {
 
-        	System.out.println("Whitelist refreshed");
-    	return true;
-    	}
-    	
-    	
-    	return false;
-    	
+            System.out.println("Whitelist refreshed");
+        return true;
+        }
+        
+        
+        return false;
+        
     }
     
     public boolean containsBlacklisted(String site) {
-    	for(String badword: BLACKLISTED) {
-    		if(site.contains(badword)) {
-    			return true;
-    		}
-    	}
-    	return false;
+        for(String badword: BLACKLISTED) {
+            if(site.contains(badword)) {
+                return true;
+            }
+        }
+        return false;
     }
     public boolean IS_SAFE(String site) {
-    	for(String whiteListedSite: WHITELIST) {
-    		if(site.equals(whiteListedSite))
-    			return true;
-    	}
+        for(String whiteListedSite: WHITELIST) {
+            if(site.equals(whiteListedSite))
+                return true;
+        }
 
-    		for(String word: KEYWORDS) {
-    			if(site.contains(word)) {
-    				
-    				return true;
-    			}
-    		}
-	    	
-    	
-    	return false;
+            for(String word: KEYWORDS) {
+                if(site.contains(word)) {
+                    
+                    return true;
+                }
+            }
+            
+        
+        return false;
     }
     public ProxyServer() {
         super("Server Thread");
-			feedServer = new FeedServer(this);
-			new Thread(feedServer).start();
+            feedServer = new FeedServer(this);
+            new Thread(feedServer).start();
     }
 
     @Override
@@ -183,12 +158,12 @@ public class ProxyServer extends Thread {
                 String host = request.substring(8,request.indexOf(":"));
                 
                 if(!IS_SAFE(host)) {
-                	updateFeedServer(host);
-                	if(CHECK)
-                			return;
-                	
+                    updateFeedServer(host);
+                    if(CHECK)
+                            return;
+                    
                 }else {
-                	
+                    
                 }
                 Matcher matcher = CONNECT_PATTERN.matcher(request);
                 if (matcher.matches()) {

@@ -129,3 +129,4 @@ tiktok.com
 .tiktokv.com
 .tiktokcdn-us.com
 .ibytedtos.com
+instagram.com

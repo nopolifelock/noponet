@@ -66,7 +66,7 @@ public class FeedConnection implements Runnable{
 	}
 	public void close() {
 		
-		try {
+		try {	running = false;
 			reader.close();
 			writer.close();
 			sock.close();

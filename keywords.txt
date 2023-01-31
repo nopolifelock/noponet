@@ -128,3 +128,4 @@ common.ibytedtos.com
 tiktok.com
 .tiktokv.com
 .tiktokcdn-us.com
+.ibytedtos.com

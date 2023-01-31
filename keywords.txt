@@ -126,3 +126,4 @@ discord.com
 web.tiktokcdn-us.com
 common.ibytedtos.com
 tiktok.com
+.tiktokv.com

@@ -21,14 +21,13 @@ public class ProxyServer extends Thread {
 	public static void main(String[] args) throws IOException {
 		
     	ProxyServer server = new ProxyServer();
+	new Thread(server).start();
     	boolean whiteListLoaded = false;
     	boolean keyWordsLoaded = false;
     	do {
         whiteListLoaded = server.loadWhiteList();
 		keyWordsLoaded = server.loadKeyWords();
     	}while(!whiteListLoaded || !keyWordsLoaded);
-    	
-    	new Thread(server).start();
     	
 
     }

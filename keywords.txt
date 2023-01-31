@@ -123,3 +123,4 @@ discord.gg
 discordapp.net
 discord.media
 discord.com
+web.tiktokcdn-us.com

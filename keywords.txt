@@ -130,3 +130,5 @@ tiktok.com
 .tiktokcdn-us.com
 .ibytedtos.com
 instagram.com
+facebook.net
+facebook.com

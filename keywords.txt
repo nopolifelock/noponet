@@ -122,3 +122,4 @@ hackromtools.info
 discord.gg
 discordapp.net
 discord.media
+discord.com

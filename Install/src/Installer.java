@@ -149,7 +149,7 @@ public class Installer {
 		System.out.println(response);
 		
 		
-		String repoLink = "https://github.com/nopolifelock/lists.git";
+		String repoLink = "https://github.com/nopolifelock/noponet.git";
 		File config = new File("C://Program Files (x86)//noponet//config");
 		config.createNewFile();
 		FileWriter writer = new FileWriter(config);

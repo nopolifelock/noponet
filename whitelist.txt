@@ -378,3 +378,4 @@ ids.cdnwidget.com
 contextual-analytics.wunderkind.co
 mid.rkdms.com
 id.crwdcntrl.net
+client.wns.windows.com

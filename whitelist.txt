@@ -3,7 +3,6 @@ accounts.google.com
 mail.google.com
 beacons.gvt2.com
 b.6sc.co
-github.com
 history.google.com
 www.newgrounds.com
 uimg.ngfiles.com

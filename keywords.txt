@@ -86,7 +86,6 @@ msecnd.net
 mysql.com
 maven
 adobe.com
-cdn.
 youtu.be
 sharepointonline.com
 visualstudio

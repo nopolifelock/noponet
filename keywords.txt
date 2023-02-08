@@ -1,6 +1,5 @@
 googlevideo
 youtube.
-github
 icloud
 beacons
 openai

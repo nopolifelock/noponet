@@ -35,7 +35,6 @@ wiki.
 ytimg.com
 mirror.
 sourceforge.net
-.eclipse.org
 ftp.
 couldflare.com
 stackexchange.com
@@ -43,7 +42,6 @@ office365.com
 live.com
 msn.com
 softonic.com
-nord
 .mediafire.com
 .apache.org
 amazonaws.com
@@ -80,14 +78,12 @@ wp.com
 codedamn.com
 docs.
 ftp-
-code.
 msecnd.net
 mysql.com
 maven
 adobe.com
 youtu.be
 sharepointonline.com
-visualstudio
 api.
 .ms
 downloads.

@@ -109,9 +109,6 @@ adblockplus.org
 eyeo.to
 www.vogella.com
 a.fsdn.com
-www.eclipse.org
-eclipseide.org
-eclipse.org
 fonts.gstatic.com
 ade.googlesyndication.com
 ftp.osuosl.org
@@ -354,8 +351,6 @@ updates.discord.com
 discordapp.com
 tiktok.com
 www.tiktok.com
-www.merriam-webster.com
-www.merriam-webster.com
 www.merriam-webster.com
 www.dictionary.com
 ad-delivery.net

@@ -8,13 +8,10 @@ stabilityai
 mirrors.
 deviantart
 images-wixmp
-smartadserver
-brainlyads.com
 doubleverify.com
 flashtalking.com
 ad-score.com
 jquery.com
-adform.net
 adnxs.com
 pinimg.com
 www.pinterest.com
@@ -73,7 +70,6 @@ codeacademy.com
 codecademy.com
 gravatar.com
 wp.com
-.io
 codedamn.com
 docs.
 ftp-
@@ -109,7 +105,6 @@ quora
 nerdschalk
 pokemon
 pangu
-.xyz
 udemy.com
 hackromtools.info
 discord.gg
@@ -125,7 +120,6 @@ tiktok.com
 instagram.com
 facebook.net
 facebook.com
-bible
 outlook
 jagex
 adobe

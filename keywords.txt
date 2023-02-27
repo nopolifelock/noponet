@@ -35,7 +35,6 @@ ftp.
 couldflare.com
 stackexchange.com
 office365.com
-live.com
 msn.com
 softonic.com
 .mediafire.com
@@ -69,7 +68,6 @@ runescape.com
 codeacademy.com
 codecademy.com
 gravatar.com
-wp.com
 codedamn.com
 docs.
 ftp-
@@ -84,7 +82,6 @@ api.
 downloads.
 trakt.tv
 stripe.com
-imgur.com
 quantserve.com
 theverge.com
 quantaccount.com

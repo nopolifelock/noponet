@@ -119,7 +119,6 @@ roms-download.com
 www.python.org
 play.google.com
 www.gravatar.com
-i.stack.imgur.com
 www.geeksforgeeks.org
 securepubads.g.doubleclick.net
 api.github.com
@@ -311,8 +310,6 @@ system-notify.app
 platform.twitter.com
 c.aaxads.com
 trakt.tv
-imgur.com
-imgur.ccgateway.net
 ad.doubleclick.net
 js.media-lab.ai
 quantcast.mgr.consensu.org

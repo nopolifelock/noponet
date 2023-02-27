@@ -120,7 +120,6 @@ facebook.com
 outlook
 jagex
 adobe
-js.
 flickr
 cdn.
 github

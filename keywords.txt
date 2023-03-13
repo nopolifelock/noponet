@@ -101,6 +101,7 @@ inputmapper
 quora
 nerdschalk
 pokemon
+newgrounds
 pangu
 udemy.com
 hackromtools.info

@@ -1,7 +1,13 @@
 discord
 imgur
-google
+google.com
 vk
 twitter
 utorrent
 piratebay
+reddit
+redgif
+drive
+dropbox
+telegram
+torrent

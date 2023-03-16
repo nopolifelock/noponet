@@ -33,6 +33,7 @@ mirror.
 sourceforge.net
 ftp.
 couldflare.com
+civitai.com
 stackexchange.com
 office365.com
 msn.com

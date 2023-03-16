@@ -121,3 +121,4 @@ flickr
 cdn.
 github
 currentmillis.com
+huggingface

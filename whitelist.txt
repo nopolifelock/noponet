@@ -370,4 +370,4 @@ share.hsforms.com
 forms.hsforms.com
 chrome.google.com
 www.corridordigital.com
-civitai.com/
+civitai.com
